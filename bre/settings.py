@@ -129,7 +129,7 @@ STATICFILES_DIRS= [
 os.path.join(BASE_DIR, 'bre/static')
 ]
 
-#media settings
+#media settings goes here
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
